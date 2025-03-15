@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/codefoxut/codefoxut/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](https://komarev.com/ghpvc/?username=codefoxut&color=green)
 
-
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codefoxut&theme=blue_green)]
+<!-- https://github-profile-summary-cards.vercel.app/demo.html -->
 <!-- https://github.com/anuraghazra/github-readme-stats   -->
