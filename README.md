@@ -42,5 +42,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codefoxut&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Oyewunmi's GitHub Stats" />
 </a>
 
-[![Ujjwal's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=codefoxut&layout=compact)](https://github.com/codefoxut/github-readme-stats)
+[![Ujjwal's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=codefoxut&layout=compact)](https://github.com/codefoxut)
+<!-- https://github.com/oyewunmio/oyewunmio -->
 
+[![](https://raw.githubusercontent.com/codefoxut/codefoxut/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/codefoxut/codefoxut/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/codefoxut/codefoxut/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://komarev.com/ghpvc/?username=codefoxut&color=green)
