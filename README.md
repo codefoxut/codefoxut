@@ -29,7 +29,18 @@ Here are some ideas to get you started:
 
 <!--a href=#><img src="contributions.svg"></a-->
 
-<p align="center">
+<!--p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_codefoxut/count.svg" />
-</p>
+</p-->
+
+<a href="https://github.com/codefoxut">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codefoxut&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/codefoxut">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codefoxut&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Oyewunmi's GitHub Stats" />
+</a>
+
+[![Ujjwal's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=codefoxut&layout=compact)](https://github.com/codefoxut/github-readme-stats)
+
