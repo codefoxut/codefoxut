@@ -1,5 +1,7 @@
 ## Hi there 👋
 ### This is Ujjwal
+> learning new things by trying.
+> 
 <!--
 **codefoxut/codefoxut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
