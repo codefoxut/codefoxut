@@ -1,4 +1,6 @@
-## Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+
 ### This is Ujjwal
 > learning new things by trying.
 > 
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/codefoxut">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codefoxut&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Oyewunmi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codefoxut&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ujjwal Tak's GitHub Stats" />
 </a>
 
 [![Ujjwal's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=codefoxut&layout=compact)](https://github.com/codefoxut)
@@ -55,3 +57,10 @@ Here are some ideas to get you started:
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codefoxut&theme=blue_green)]
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
 <!-- https://github.com/anuraghazra/github-readme-stats   -->
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/codefoxut">
+<img src="https://github-readme-stats.vercel.app/api?username=codefoxut&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ujjwal Tak's GitHub stats" /></a>
