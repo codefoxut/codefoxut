@@ -7,14 +7,19 @@ I'm **Ujjwal Tak**
 ---
 
 ## 📊 GitHub Stats
-<p>
-<picture>
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=codefoxut&show_icons=true&theme=macos_dark&hide=prs,contribs,issues&show=discussions_started,discussions_answered&rank_icon=default&include_all_commits=true&card_width=320&border_radius=20" />
-</picture>
-<picture>
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=codefoxut&show_icons=true&theme=macos_dark&show=reviews,prs_merged,prs_merged_percentage&hide_title=true&hide=stars,commits&border_radius=20&card_width=320&rank_icon=percentile&include_all_commits=true" />
-</picture>
+
+
+<p align="center">
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api?username=codefoxut&show_icons=true&theme=macos_dark&hide=prs,issues&show=discussions_started,discussions_answered&rank_icon=default&include_all_commits=true&border_radius=20"
+  />
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api?username=codefoxut&show_icons=true&theme=macos_dark&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,contribs&hide_title=true&rank_icon=percentile&include_all_commits=true&border_radius=20"
+  />
 </p>
+
 
 ---
 
@@ -50,10 +55,11 @@ I'm **Ujjwal Tak**
 
 ## Top Languages
 
-
+<p align="center">
 <picture>
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codefoxut&hide=jupyter notebook,html,scss,css&langs_count=12&layout=compact&theme=macos_dark&size_weight=0.75&count_weight=0.25" />
 </picture>
+</p>
 
 ---
 
