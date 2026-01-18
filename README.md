@@ -18,6 +18,10 @@ I'm **Ujjwal Tak**
     width="400"
     src="https://github-readme-stats-fast.vercel.app/api?username=codefoxut&show_icons=true&theme=macos_dark&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,contribs&hide_title=true&rank_icon=percentile&include_all_commits=true&border_radius=20"
   />
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api?username=codefoxut&show_icons=true&theme=macos_dark&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,contribs&hide_title=true&rank_icon=percentile&border_radius=20"
+  />
 </p>
 
 
