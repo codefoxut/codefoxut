@@ -57,17 +57,21 @@ I enjoy learning by *doing* — constantly experimenting with new ideas, buildin
 
 ## 🔥 GitHub Streak
 
+<p align="center">
 <picture>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=codefoxut&theme=radical&hide_border=true" />
 </picture>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
+<p align="center">
 <picture>
   <img src="https://github-profile-trophy-fork.vercel.app/api/trophies?username=codefoxut&theme=onedark&no-frame=true&column=4&margin-w=5&margin-h=10" />
 </picture>
+</p>
 
 ---
 
@@ -91,7 +95,7 @@ I enjoy learning by *doing* — constantly experimenting with new ideas, buildin
 ---
 
 ## GitHub Profile Summary Cards
-<p style="width=600px;">
+<p align="center" style="width=600px;">
 <picture>
   <img height="200" width="600" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codefoxut&theme=holi" />
 </picture>
@@ -113,7 +117,7 @@ I enjoy learning by *doing* — constantly experimenting with new ideas, buildin
 
 ### 👀 Profile Views
 
-<p>
+<p align="left">
 <picture>
   <img align="left" src="https://komarev.com/ghpvc/?username=codefoxut&color=blueviolet&style=flat-square" />
 </picture>
