@@ -50,6 +50,10 @@ I enjoy learning by *doing* — constantly experimenting with new ideas, buildin
     src="https://github-readme-stats-fast.vercel.app/api?username=codefoxut&show_icons=true&theme=macos_dark&show=reviews,prs_merged,prs_merged_percentage&hide=stars,commits,contribs&hide_title=true&rank_icon=percentile&include_all_commits=true&border_radius=20"
   />
 </picture>
+<picture>
+<source srcset="https://github-readme-stats-fast.vercel.app/api?username=codefoxut&show_icons=true&theme=macos_dark&hide=issues,contribs&rank_icon=percentile&border_radius=20&custom_title=Github Stats[2026]">
+  <img width="600" src="" />  
+</picture>
 </p>
 
 
@@ -59,7 +63,8 @@ I enjoy learning by *doing* — constantly experimenting with new ideas, buildin
 
 <p align="center">
 <picture>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=codefoxut&theme=radical&hide_border=true" />
+  <source srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=codefoxut&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=codefoxut&theme=radical" />
 </picture>
 </p>
 
@@ -77,17 +82,10 @@ I enjoy learning by *doing* — constantly experimenting with new ideas, buildin
 
 
 ## Top Languages
-
-
 <p align="center" width="600">
 <picture>
-  <img
-    width="300"
-    src="https://github-readme-stats-fast.vercel.app/api?username=codefoxut&show_icons=true&theme=macos_dark&hide=issues,contribs&rank_icon=percentile&border_radius=20&custom_title=Github Stats[2026]"
-  />  
-</picture>
-<picture>
-  <img height="200" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codefoxut&hide=jupyter notebook,html,scss,css&langs_count=12&layout=compact&theme=macos_dark&size_weight=0.75&count_weight=0.25" />
+  <source srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codefoxut&hide=jupyter notebook,html,scss,css&langs_count=12&layout=compact&theme=macos_dark&size_weight=0.75&count_weight=0.25" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codefoxut&hide=html,jupyter%20notebook&langs_count=10&layout=compact&size_weight=0.75&count_weight=0.25&theme=holi" />
 </picture>
 </p>
 
